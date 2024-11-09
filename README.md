@@ -6,7 +6,7 @@
 ### Hi there 👋
 <h1>
     <a href="https://github.com/mayajord">
-     <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253470.png"></a><span> Natanael Luiz</span>
+     <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253470.png"></a><span> Maya Jordana</span>
 </h1>
 
 [Linkedin: https://www.linkedin.com/in/maya-jordana-a25979325/
